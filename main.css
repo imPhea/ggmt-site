@@ -1,0 +1,82 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+   padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: all .3s ease;
+    font-family: 'Roboto', sans-serif;
+}
+.cover {
+   height: 100%;
+   width: 100%;
+   object-fit: cover;
+}
+a{
+   text-decoration: none;
+}
+
+:root {
+   --app-main: #2c3e50;
+   --white: #fff;
+   --black: #000;
+   --blue: #00b9fe;
+   --mint: #4fe2c1;
+   --mint-rgb: 79,226,193;
+   --grey: #aeb1c3;
+   --medium-grey: #b2b2b2;
+   --error-red: #e2001a;
+   --error-red-rgb: 226,0,26;
+   --midnight-blue: #04003f;
+   --midnight-blue-rgb: 4,0,63;
+   --bluey-grey: #b7bac9;
+   --pale-bluey-grey: #dbdce4;
+   --pale-grey: #f0f2fa;
+   --little-grey: #d8d8d8;
+   --blue-light: #ecfaff;
+   --light-slate-blue: #374886;
+   --light-slate-blue-rgb: 55,72,134;
+   --dark-slate-blue: #28386f;
+   --light-mint: #53ecc9;
+   --bright-sky-blue: #00b9fe;
+   --bright-sky-blue-rgb: 0,185,254;
+   --charcoal-grey: #3a3b41;
+   --tomato-red: #e72d00;
+   --mid-green: #42a44d;
+   --nice-blue: #137fa6;
+   --lightish-blue: #5a6fff;
+   --violet: #6b37bd;
+   --royal-blue: #234fda;
+   --manatee-dark: #717488;
+   --stratos-blue: #060059;
+   --pretty-blue: #244fe7;
+   --pretty-blue-rgb: 36,79,231;
+   --pretty-blue-highlight: #3a66ff;
+   --pretty-blue-less-opac: rgba(36,79,231,0.14902);
+   --content-yellow: #ffed00;
+   --data-blue: #008697;
+   --design-pink: #d800e3;
+   --dev-red: #e2001a;
+   --finance-green: #009036;
+   --hr-green: #97be0d;
+   --internship-orange: #f2aa00;
+   --legal-orange: #f26c00;
+   --marketing-purple: #8700e2;
+   --operations-purple: #4d1096;
+   --product-blue: #173183;
+   --project-mgmt-blue: #006ab2;
+   --sales-blue: #009ee0;
+   --sky-blue: #ebfaff;
+   --gradient-pink: #eb38a6;
+   --gradient-light-pink: #f559b9;
+   --gradient-orange: #e27300;
+   --gradient-blue: #31dccf;
+   --gradient-yellow: #ffed00;
+   --button-hover-blue: #4fcdff;
+   --button-hover-sky-blue: #52cefc;
+   --easy-apply-light: #9d87fd;
+   --easy-apply-dark: #6147d7;
+   --pink: #cc1e8a;
+}
